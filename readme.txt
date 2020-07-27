@@ -1,3 +1,6 @@
+Author: Jose Antonio Perez Cruz
+Git: https://github.com/joseaperez87/Gateways.git
+
 Client and Server for Manage gateways - master devices project
 
 Vue.js + Express + MongoDB
