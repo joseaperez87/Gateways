@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "5f1c88b7143ef02e4485ed25"
+  },
+  "peripherals": [
+    {
+      "$oid": "5f1df47f79fae7091872dad4"
+    },
+    {
+      "$oid": "5f1df4cfdc2f7b1e203e0884"
+    },
+    {
+      "$oid": "5f1df7eddc2f7b1e203e0885"
+    },
+    {
+      "$oid": "5f1df7fcdc2f7b1e203e0886"
+    },
+    {
+      "$oid": "5f1df80bdc2f7b1e203e0887"
+    },
+    {
+      "$oid": "5f1df819dc2f7b1e203e0888"
+    },
+    {
+      "$oid": "5f1df81ddc2f7b1e203e0889"
+    },
+    {
+      "$oid": "5f1df82bdc2f7b1e203e088a"
+    },
+    {
+      "$oid": "5f1df84cdc2f7b1e203e088b"
+    },
+    {
+      "$oid": "5f1df850dc2f7b1e203e088c"
+    }
+  ],
+  "serial": "666",
+  "name": "Gateway 1",
+  "__v": 10
+},{
+  "_id": {
+    "$oid": "5f1c8d029347861484012989"
+  },
+  "peripherals": [
+    {
+      "$oid": "5f1df86fdc2f7b1e203e088e"
+    },
+    {
+      "$oid": "5f1df879dc2f7b1e203e088f"
+    }
+  ],
+  "serial": "df55p",
+  "name": "Gateway 2",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f1c8d27934786148401298b"
+  },
+  "peripherals": [],
+  "serial": "22",
+  "name": "Gateway 3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1c8d97934786148401298e"
+  },
+  "peripherals": [],
+  "serial": "231323",
+  "name": "Gateway 4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1dd36391fd2c1f90efecd1"
+  },
+  "peripherals": [],
+  "serial": "dd",
+  "name": "Gateway 5",
+  "__v": 0
+}]

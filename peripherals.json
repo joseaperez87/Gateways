@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "5f1df47f79fae7091872dad4"
+  },
+  "status": "Online",
+  "vendor": "Samsung 10",
+  "date": {
+    "$date": "2020-07-26T21:24:15.793Z"
+  },
+  "UID": 38,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df4cfdc2f7b1e203e0884"
+  },
+  "status": "Online",
+  "vendor": "Samsung 10S+",
+  "date": {
+    "$date": "2020-07-26T21:25:35.178Z"
+  },
+  "UID": 39,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df7eddc2f7b1e203e0885"
+  },
+  "status": "Offline",
+  "vendor": "Huawei Note",
+  "date": {
+    "$date": "2020-07-26T21:38:53.621Z"
+  },
+  "UID": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df7fcdc2f7b1e203e0886"
+  },
+  "status": "Offline",
+  "vendor": "Samsung 7",
+  "date": {
+    "$date": "2020-07-26T21:39:08.977Z"
+  },
+  "UID": 41,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df80bdc2f7b1e203e0887"
+  },
+  "status": "Online",
+  "vendor": "iPhone 6",
+  "date": {
+    "$date": "2020-07-26T21:39:23.073Z"
+  },
+  "UID": 42,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df819dc2f7b1e203e0888"
+  },
+  "status": "Online",
+  "vendor": "ZTE ",
+  "date": {
+    "$date": "2020-07-26T21:39:37.236Z"
+  },
+  "UID": 43,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df81ddc2f7b1e203e0889"
+  },
+  "status": "Online",
+  "vendor": "LG",
+  "date": {
+    "$date": "2020-07-26T21:39:41.632Z"
+  },
+  "UID": 44,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df82bdc2f7b1e203e088a"
+  },
+  "status": "Online",
+  "vendor": "Windows 10",
+  "date": {
+    "$date": "2020-07-26T21:39:55.659Z"
+  },
+  "UID": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df84cdc2f7b1e203e088b"
+  },
+  "status": "Online",
+  "vendor": "iOS",
+  "date": {
+    "$date": "2020-07-26T21:40:28.027Z"
+  },
+  "UID": 46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df850dc2f7b1e203e088c"
+  },
+  "status": "Online",
+  "vendor": "iMac",
+  "date": {
+    "$date": "2020-07-26T21:40:32.860Z"
+  },
+  "UID": 47,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df85adc2f7b1e203e088d"
+  },
+  "status": "Online",
+  "vendor": "dd",
+  "date": {
+    "$date": "2020-07-26T21:40:42.815Z"
+  },
+  "UID": 48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df86fdc2f7b1e203e088e"
+  },
+  "status": "Online",
+  "vendor": "Samsung 8",
+  "date": {
+    "$date": "2020-07-26T21:41:03.466Z"
+  },
+  "UID": 49,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1df879dc2f7b1e203e088f"
+  },
+  "status": "Online",
+  "vendor": "Samsung 7",
+  "date": {
+    "$date": "2020-07-26T21:41:13.733Z"
+  },
+  "UID": 50,
+  "__v": 0
+}]
